@@ -27,7 +27,7 @@
 
 
 
-💡 _"Always exploring the intersection of AI, cloud, and automation to drive innovation!"_ 🚀  
+💡 _"Always exploring the intersection of AI, cloudops to drive innovation!"_ 🚀  
 
 <!---
 oneeyed-yggdrasil/oneeyed-yggdrasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
